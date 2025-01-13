@@ -8,8 +8,11 @@ This project explores and analyzes restaurant data, focusing on consumer ratings
 ## Objectives
 
 - **Data Cleaning**: Process and clean the dataset to handle inconsistencies and missing values.
+  
 - **Descriptive Analysis**: Investigate the distribution of restaurant ratings and average costs by cuisine type.
+  
 - **Visualizations**: Create clear visual representations of the findings, including:
+  
   - Average ratings by cuisine
   - Distribution of ratings
   - Average cost for dining for two people by cuisine
@@ -36,8 +39,8 @@ The dataset contains the following columns:
 - **listed_in(type)**: Category type
 - **listed_in(city)**: City listing
 
-## Getting Started
+  ## Dataset Source
 
-### Prerequisites
+The dataset used in this project was obtained from Kaggle. It includes detailed information about various restaurants, including ratings, costs, and types of cuisine.
 
-Ensure you have Python and pip installed on your machine.
+- **Link to Dataset**: [Zomato.cv][https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data]
